@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+
+# postgres data persisted by docker compose
+data/db
